@@ -1,2 +1,2 @@
-# tast
-my first tast for study python
+# task
+my first tasks for study python
